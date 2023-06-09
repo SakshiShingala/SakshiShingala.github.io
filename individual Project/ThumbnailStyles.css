@@ -1,0 +1,49 @@
+property-listing {
+  width: 100%;
+}
+
+.property-item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  border: 2px solid #ddd; 
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.property-item img {
+  float : left; 
+  width: 300px; 
+}
+.property-item :hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.property-item h3 {
+  margin-top: 10px;
+  float : right;
+  color: #000000;
+}
+
+.property-item p {
+  margin-top: 5px;
+  margin-bottom: 0;
+  color: #000000;
+}
+h2{
+	font-family: "Bentham";
+	color: #000000;
+	text-transform: capitalize;
+	background-color: #f15175;
+}
+
+body{
+	background-color: #fbc2c2;
+}
+
+h1{
+	font-family:"Pacifico";
+	text-align: center;
+	color: #f15175;
+	text-transform: capitalize
+}

@@ -1,0 +1,50 @@
+#allPages{
+	width: 980px;
+	margin: auto;
+}
+
+#agent{
+	float: right;
+	margin-left : auto;
+	margin-right : auto;
+	text-align : center;
+}
+
+#list{
+	background-color: #ef7993;
+	text-align: center;
+}
+#Banner{
+	width : 100%;
+	opacity : 0.7;
+}
+a:hover{
+	text-decoration: underline overline;
+	 background-color: #FFFFFF;
+}
+
+img{
+	align : center;
+}
+
+body{
+	background-color: #fbc2c2;
+}
+
+h2{
+	font-family: "Bentham";
+	color: #000000;
+	text-transform: capitalize;
+	background-color: #f15175;
+}
+h3{
+	text-align: center;
+	font-family: "Philosopher";
+	text-transform: capitalize;
+}
+
+#mainContent{
+	width: "975px";
+	margin-left : auto;
+	margin-right: auto;
+}
