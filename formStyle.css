@@ -1,0 +1,41 @@
+h2{
+	font-family: "Bentham";
+	color: #000000;
+	text-transform: capitalize;
+	background-color: #f15175;
+}
+
+body{
+	background-color: #fbc2c2;
+}
+
+#button{
+	text-align: center;
+}
+
+h1{
+	font-family: "Bentham";
+	text-align: center;
+}
+
+h3{
+	font-family: "Bentham";
+	text-align: center;
+}
+
+fieldset {
+	width:800px;
+	border-style:solid;
+	border-radius:15px;
+	box-shadow:5px 5px 5px 5px #fba;
+	margin-bottom:20px;
+}
+
+fieldset p {
+	clear:both;
+	padding:5px;
+}
+
+legend{
+	font-weight:bold;
+}

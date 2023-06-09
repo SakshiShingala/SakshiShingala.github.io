@@ -1,0 +1,19 @@
+.property{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+  border: 2px solid #ddd; 
+  border-radius: 4px;
+  padding: 5px;
+}
+
+h2{
+	font-family: "Bentham";
+	color: #000000;
+	text-transform: capitalize;
+	background-color: #f15175;
+}
+
+body{
+	background-color: #fbc2c2;
+}
