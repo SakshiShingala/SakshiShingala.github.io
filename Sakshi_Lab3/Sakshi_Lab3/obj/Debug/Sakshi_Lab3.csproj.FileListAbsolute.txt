@@ -1,8 +1,0 @@
-C:\Users\Lenovo\Documents\Sakshi\Programming 1\week8\Sakshi_Lab3\Sakshi_Lab3\bin\Debug\Sakshi_Lab3.exe.config
-C:\Users\Lenovo\Documents\Sakshi\Programming 1\week8\Sakshi_Lab3\Sakshi_Lab3\bin\Debug\Sakshi_Lab3.exe
-C:\Users\Lenovo\Documents\Sakshi\Programming 1\week8\Sakshi_Lab3\Sakshi_Lab3\bin\Debug\Sakshi_Lab3.pdb
-C:\Users\Lenovo\Documents\Sakshi\Programming 1\week8\Sakshi_Lab3\Sakshi_Lab3\obj\Debug\Sakshi_Lab3.csproj.AssemblyReference.cache
-C:\Users\Lenovo\Documents\Sakshi\Programming 1\week8\Sakshi_Lab3\Sakshi_Lab3\obj\Debug\Sakshi_Lab3.csproj.SuggestedBindingRedirects.cache
-C:\Users\Lenovo\Documents\Sakshi\Programming 1\week8\Sakshi_Lab3\Sakshi_Lab3\obj\Debug\Sakshi_Lab3.csproj.CoreCompileInputs.cache
-C:\Users\Lenovo\Documents\Sakshi\Programming 1\week8\Sakshi_Lab3\Sakshi_Lab3\obj\Debug\Sakshi_Lab3.exe
-C:\Users\Lenovo\Documents\Sakshi\Programming 1\week8\Sakshi_Lab3\Sakshi_Lab3\obj\Debug\Sakshi_Lab3.pdb
